@@ -87,7 +87,7 @@ The Combermere School, Barbados
 
 ### Contact Me
 
-> ✉️ [theo@taylord.tech](mailto:theo@taylord.tech)  
+> ✉️ [theotaylor@taylord.tech](mailto:theo@taylord.tech)  
 > 🐦 [@theofromtaylord](https://twitter.com/theofromtaylord)
 
 ---
