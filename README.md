@@ -5,7 +5,7 @@
 ## A Senior React & React Native Developer, UX Director
 
 > 🌐 [bytheo.dev](bytheo.dev)  
-> ✉️ [gettaylordco@gmail.com](mailto:gettaylordco@gmail.com)  
+> ✉️ [theotaylor@taylord.tech](mailto:theotaylor@taylord.tech)  
 > 🐦 [@theofromtaylord](https://twitter.com/theofromtaylord)
 
 ---
