@@ -5,7 +5,9 @@
 ## A Senior React & React Native Developer, UX Director
 
 > 🌐 [taylordbytheo.com](taylordbytheo.com)
+
 > ✉️ [theo@taylordbytheo.com](mailto:theo@taylordbytheo.com)
+
 > 🐦 [@taylordbytheo](https://twitter.com/taylordbytheo)
 
 ---
@@ -88,6 +90,7 @@ The Combermere School, Barbados
 ### Contact Me
 
 > ✉️ [theo@taylordbytheo.com](mailto:theo@taylord.tech)
+
 > 🐦 [@taylordbytheo](https://twitter.com/taylordbytheo)
 
 ---
