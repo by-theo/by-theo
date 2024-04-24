@@ -4,9 +4,9 @@
 
 ## A Senior React & React Native Developer, UX Director
 
-> 🌐 [bytheo.dev](bytheo.dev)  
-> ✉️ [theotaylor@taylord.tech](mailto:theotaylor@taylord.tech)  
-> 🐦 [@theofromtaylord](https://twitter.com/theofromtaylord)
+> 🌐 [taylordbytheo.com](taylordbytheo.com)
+> ✉️ [theo@taylordbytheo.com](mailto:theo@taylordbytheo.com)
+> 🐦 [@taylordbytheo](https://twitter.com/taylordbytheo)
 
 ---
 
@@ -65,12 +65,12 @@ A shipping service for online shopping, shipment of packages and mail from the U
 
 TAYLOR'D Technologies
 : _CEO & Lead Developer_
-**2017-present**  
+**2017-present**
  Developed native Android apps with both Java & Kotlin, iOS apps with both UIKit & SwiftUI, macOS apps with SwiftUI, React Native apps (vanilla & Expo) and React websites/apps. The iOS & macOS apps were all backed by Core Data/CloudKit while everything else was backed by Firebase or WordPress.
 
 Core Technologies
 : _Partner & Lead Web Developer_
-**2015**  
+**2015**
  Here I got my first taste of web development through making WordPress sites; altering themes and plugins with a partner for a year. My work mainly included writing HTML and PHP.
 
 ---
@@ -87,8 +87,8 @@ The Combermere School, Barbados
 
 ### Contact Me
 
-> ✉️ [theotaylor@taylord.tech](mailto:theo@taylord.tech)  
-> 🐦 [@theofromtaylord](https://twitter.com/theofromtaylord)
+> ✉️ [theo@taylordbytheo.com](mailto:theo@taylord.tech)
+> 🐦 [@taylordbytheo](https://twitter.com/taylordbytheo)
 
 ---
 
