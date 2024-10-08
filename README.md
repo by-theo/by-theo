@@ -25,5 +25,3 @@ Recent Cool Stuff 💡
 Let’s Create Something Awesome!
 
 Feel free to reach out ✉️ or tweet 🐦 at me!
-
-This keeps things fresh, inviting, and to the point! What do you think?
